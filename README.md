@@ -19,7 +19,7 @@ I'm gocloudcoder. Focus on Linux/Go/Java.
   > * 各种中间件
   > * docker-to-k8s
 
-* [qiniu-cli七牛命令行小工具](https://github.com/gocloudcoder/qiuniu-cli)
+* [qiniu-cli七牛命令行小工具](https://github.com/gocloudcoder/qiniu-cli)
 
   > 实用型小工具，将本地文件上传到七牛云存储。提高效率，可搭配typora使用。
 
