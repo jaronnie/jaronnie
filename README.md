@@ -1,6 +1,6 @@
 Go big or go home !
 
-I'm gocloudcoder. Focus on Linux/Go.
+I'm jaronnie. Focus on Linux/Go.
 
 * [个人博客](https://blog.gocloudcoder.com)
 * 个人邮箱:nstar@gocloudcoder.com
