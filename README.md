@@ -26,3 +26,5 @@ I'm jaronnie. Focus on Linux/Go.
 
   > 采用vue作为前端，go作为后端的音乐播放器。并使用Websocket搭建了一个简易聊天室，需注册登录使用，使用mysql +redis。
 
+
+
