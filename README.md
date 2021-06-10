@@ -18,6 +18,10 @@ I'm jaronnie. Focus on Linux/Go.
 
   > 实用型小工具，将本地文件上传到七牛云存储。提高效率，可搭配typora使用。
 
+* [julenkv key-value database](https://github.com/jaronnie/julenkv)
+
+  > golang服务端 + docker部署 + 客户端(命令行) + 多语言客户端
+
 * [使用docker gitbook构造电子书](https://github.com/jaronnie/gitbook)
 
   > 解决宿主机安装gitbook的痛！
