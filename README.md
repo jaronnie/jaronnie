@@ -8,7 +8,7 @@ I'm jaronnie. Focus on Linux/Go.
 * [知乎](https://www.zhihu.com/people/cloud-coder)
 * [docker hub](https://hub.docker.com/u/gocloudcoder)
 
-主力语言Go，正在往云计算方向发展。
+主力语言Go，正在往区块链与云计算方向发展。
 
 [gopher-road记录了go后端开发技术栈](https://github.com/jaronnie/gopher-road)
 
@@ -29,6 +29,8 @@ I'm jaronnie. Focus on Linux/Go.
 * [music-player音乐播放器](https://github.com/jaronnie/music-player)
 
   > 采用vue作为前端，go作为后端的音乐播放器。并使用Websocket搭建了一个简易聊天室，需注册登录使用，使用mysql +redis。
+  >
+  > 采用docker-compose一键部署启动项目
 
 
 
