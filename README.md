@@ -8,6 +8,11 @@ focus on cloud native and blockchain
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaronnie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.gocloudcoder.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaronnie&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![jaronnie Github Stats](https://github-readme-stats.vercel.app/api?username=jaronnie&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]&line_height=40&count_private=true)![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaronnie&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaronnie&show_icons=true)  
+
+
+## Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/jaronnie/count.svg)
+
