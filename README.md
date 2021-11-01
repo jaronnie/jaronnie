@@ -3,8 +3,6 @@
 - 🌱 工作岗位：Golang 后端 Baas 平台开发（区块链与云原生） 
 - 🤔 通过三个月实习期间的优秀表现，拿到秋招 Offer，薪资水平：17k x 16薪
 
-![we-tuiguang](https://resource.gocloudcoder.com/we-tuiguang.png)
-
 Wechat Offcial Account：gocloudcoder
 
 Blog：https://blog.gocloudcoder.com
