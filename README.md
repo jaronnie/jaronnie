@@ -6,7 +6,7 @@ focus on cloud native and blockchain
 - 🌱 I’m currently learning how to be a great gopher 
 - 🤔 I’m looking for help with doing some projects with you 
 - 📫 How to reach me:
-  - my email: nstar@gocloudcoder.com, niejian@hyperchain.cn
+  - my email: jaron@jaronnie.com, niejian@hyperchain.cn
   - my blog: [https://blog.jaronnie.com](https://blog.jaronnie.com)
   - Wechat Official Accounts: gocloudcoder
 
