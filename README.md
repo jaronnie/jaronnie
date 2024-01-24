@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is jaronnie
 
-focus on cloud native and blockchain
+focus on cloud native
 
-- 🔭 I’m currently working on cloud native and blockchain in [Qulian](https://www.hyperchain.cn/), HangZhou
+- 🔭 I'm looking for a cloud native job and look forward to working with you
 - 🌱 I’m currently learning how to be a great gopher 
 - 🤔 I’m looking for help with doing some projects with you 
 - 📫 How to reach me:
-  - my email: jaron@jaronnie.com, niejian@hyperchain.cn
+  - my email: jaron@jaronnie.com
   - my blog: [https://blog.jaronnie.com](https://blog.jaronnie.com)
   - Wechat Official Accounts: gocloudcoder
 
